@@ -1,7 +1,12 @@
 ### Hi there 👋
 
+[![Github](https://img.shields.io/github/followers/Jannchie?label=Follow&style=social)](https://github.com/Jannchie)
+
 <!--
 **Jannchie/Jannchie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jannchie&hide=html)
+![Alexey's stats](https://github-readme-stats.vercel.app/api?username=Jannchie&show_icons=true&count_private=true&line_height=33.7)
 
 Here are some ideas to get you started:
 
