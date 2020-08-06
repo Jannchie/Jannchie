@@ -1,4 +1,4 @@
-### Here is Jannchie 👋
+### Not All Who Wander Are Lost
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jannchie&hide=html)
 ![Jannchie's stats](https://github-readme-stats.vercel.app/api?username=Jannchie&show_icons=true&count_private=true&line_height=33.7)
