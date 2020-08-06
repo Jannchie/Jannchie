@@ -1,7 +1,7 @@
 ### Here is Jannchie 👋
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jannchie&hide=html)
-![Alexey's stats](https://github-readme-stats.vercel.app/api?username=Jannchie&show_icons=true&count_private=true&line_height=33.7)
+![Jannchie's stats](https://github-readme-stats.vercel.app/api?username=Jannchie&show_icons=true&count_private=true&line_height=33.7)
 
 I'm still learning to program. Currently studying in Japan.
 
