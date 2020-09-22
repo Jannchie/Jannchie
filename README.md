@@ -7,9 +7,10 @@ My Blog:
 - [Jannchie's Tech Blog](https://jannchie.github.io/): Simply record what I have learned.
 
 My Project:
+- [anichart.js](https://github.com/Jannchie/anichart.js):  Data Visual Animation Library.
 - [BiliOB](https://www.biliob.com/): Bilibili data observer.
-- [Simpyder](https://pypi.org/project/simpyder/):  Simple python spider.
-- [Pyoxies](https://github.com/Jannchie/pyoxies):  Free python proxy pool.
+- [pyoxies](https://github.com/Jannchie/pyoxies):  Free python proxy pool.
+- [simpyder](https://pypi.org/project/simpyder/):  Simple python spider.
 
 Support Me:
 - [AZZ](https://azz.net/jannchie)
