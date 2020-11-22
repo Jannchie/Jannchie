@@ -2,6 +2,8 @@
 
 ![Jannchie's stats](https://github-readme-stats-89dq8p8qw.vercel.app/api?username=Jannchie&show_icons=true&count_private=true&line_height=33.7)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJannchie%2FJannchie&count_bg=%233D91C8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=true)](https://hits.seeyoufarm.com)
+
 Most Used Languages:
 
 - Python | TypeScript | JavaScript | Java | C# | C++
