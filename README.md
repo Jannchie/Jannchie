@@ -1,7 +1,10 @@
 ### Not All Who Wander Are Lost
 
-![Top Langs](https://github-readme-stats-89dq8p8qw.vercel.app/api/top-langs/?username=Jannchie&hide=html)
 ![Jannchie's stats](https://github-readme-stats-89dq8p8qw.vercel.app/api?username=Jannchie&show_icons=true&count_private=true&line_height=33.7)
+
+Most Used Languages:
+
+- Python | TypeScript | JavaScript | Java | C# | C++
 
 My Blog: 
 - [Jannchie's Tech Blog](https://jannchie.github.io/): Simply record what I have learned.
