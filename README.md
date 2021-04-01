@@ -1,5 +1,9 @@
 ### Not All Who Wander Are Lost
 
+
+<a href="https://stackoverflow.com/users/8625892/jannchie"><img src="https://stackoverflow.com/users/flair/8625892.png?theme=dark" width="208" height="58" alt="profile for Jannchie at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Jannchie at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
+
 [![Github](https://img.shields.io/github/followers/jannchie?label=Follow&style=social)](https://github.com/jannchie)
 [![CodeTime](https://img.shields.io/endpoint?style=social&url=https://codetime-api.datreks.com/badge/2)](https://codetime.datreks.com)
 
