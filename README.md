@@ -10,9 +10,6 @@
 
 ---
 
-My Blog: 
-- [Jannchie's Tech Blog](https://jannchie.github.io/): Simply record what I have learned.
-
 My Project:
 - [anichart.js](https://github.com/Jannchie/anichart.js):  Data Visual Animation Library.
 - [Code Time](https://codetime.datreks.com): Count and analyze programming time based on editor plug-in.
