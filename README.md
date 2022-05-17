@@ -15,8 +15,6 @@ My Project:
 - [Code Time](https://codetime.datreks.com): Count and analyze programming time based on editor plug-in.
 - [Gazer System](https://github.com/Jannchie/gazer-system): Universal crawler microservice, based on gRPC, Docker and Tor.
 - [BiliOB](https://www.biliob.com/): Bilibili data observe website (Maintenance stopped due to receipt of lawyer's letter).
-- [pyoxies](https://github.com/Jannchie/pyoxies):  Free python proxy pool.
-- [simpyder](https://pypi.org/project/simpyder/):  Simple python spider.
 
 Support Me:
 - [AZZ](https://azz.net/jannchie)
