@@ -8,10 +8,6 @@
 [![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D2%26project%3D%26in%3D0)](https://codetime.dev)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJannchie%2FJannchie&count_bg=%233D91C8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=true)](https://hits.seeyoufarm.com)
 
-Live with:
-
-<img src="https://skillicons.dev/icons?i=py,js,ts,go,cs,pytorch,jest,electron,tailwind,windicss,react,redux,vue,d3,jquery,netlify,vercel,nextjs,nginx,nodejs,nuxtjs,postman,prisma,webpack,vite,rollupjs,java,spring,git,github,githubactions,jenkins,latex,md,figma,firebase,flask,flutter,github,kubernetes,docker,aws,gcp,blender,godot,unity,html,vscode,idea,linux,matlab,mysql,mongodb,redis,postgres,sqlite,powershell" />
-
 ---
 
 My Project:
