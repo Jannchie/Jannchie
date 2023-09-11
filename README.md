@@ -11,8 +11,14 @@
 
 ---
 
-My Project:
-- [anichart.js](https://github.com/Jannchie/anichart.js):  Data Visual Animation Library.
+Homepage:
+- [jannchie.com](https://jannchie.com/)
+
+My Works:
+- [cake47.art](http://cake47.art/): My wife's illustration portfolio.
+- [gitcm](https://github.com/Jannchie/gitcm): An opinionated git commits message helper.
+- [anichart.js](https://github.com/Jannchie/anichart.js): Data Visual Animation Library.
+- [AI CMD Runner](https://github.com/Jannchie/AI-cmd-runner): Execute console commands in natural language.
 - [Code Time](https://codetime.dev): Count and analyze programming time based on editor plug-in.
 - [Tr.GPT](https://trgpt.app): Translator GPT Application.
 - [Roku UI](https://roku-ui.vercel.app): A Beautiful React UI Library.
