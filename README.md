@@ -16,6 +16,7 @@ Homepage:
 
 My Works:
 - [cake47.art](http://cake47.art/): My wife's illustration portfolio.
+- [Gemini Chat UI](https://gemini-chat-ui-six.vercel.app/): A Chat Client imitating the frontend style of Google Gemini. Supports ChatGPT API.
 - [gitcm](https://github.com/Jannchie/gitcm): An opinionated git commits message helper.
 - [anichart.js](https://github.com/Jannchie/anichart.js): Data Visual Animation Library.
 - [AI CMD Runner](https://github.com/Jannchie/AI-cmd-runner): Execute console commands in natural language.
