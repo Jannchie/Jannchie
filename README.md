@@ -3,7 +3,7 @@
 [![Bilibili](https://img.shields.io/endpoint?logo=bilibili&style=social&url=https%3A%2F%2Fapi.zeroroku.com%2Fbilibili%2Fauthor%2Fshield%3Fmid%3D1850091)](https://space.bilibili.com/1850091)
 [![Github](https://img.shields.io/github/followers/jannchie?label=Follow&style=social)](https://github.com/jannchie)
 ![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/8625892?style=social&logo=stackoverflow&link=https%3A%2F%2Fstackoverflow.com%2Fusers%2F8625892%2Fjannchie)
-![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.jannchie.com%2Fbadge%2Fjannchie.github&style=social)
+![Endpoint Badge](https://hits.jannchie.com/svg/jannchie.github?style=social)
 
 [![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D2%26project%3D%26in%3D0)](https://codetime.dev)
 [![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D2%26project%3D%26in%3D604800000)](https://codetime.dev)
