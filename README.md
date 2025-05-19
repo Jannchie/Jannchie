@@ -9,11 +9,14 @@
 [![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D2%26project%3D%26in%3D604800000)](https://codetime.dev)
 [![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D2%26project%3D%26in%3D86400000)](https://codetime.dev)
 
-[![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D2%26minutes%3D0%26color%3D%26style%3Dsocial%26language%3Dpython)](https://codetime.dev)
-[![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D2%26minutes%3D0%26color%3D%26style%3Dsocial%26language%3Drust)](https://codetime.dev)
-[![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D2%26minutes%3D0%26color%3D%26style%3Dsocial%26language%3Dvue)](https://codetime.dev)
-[![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D2%26minutes%3D0%26color%3D%26style%3Dsocial%26language%3Dtypescript)](https://codetime.dev)
-[![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D2%26minutes%3D0%26color%3D%26style%3Dsocial%26language%3Dtypescriptreact)](https://codetime.dev)
+[![CodeTime Badge](https://img.shields.io/endpoint?style=flat&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D2%26minutes%3D525600%26color%3D222%26style%3Dflat%26language%3Dpython)](https://codetime.dev)
+[![CodeTime Badge](https://img.shields.io/endpoint?style=flat&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D2%26minutes%3D525600%26color%3D222%26style%3Dflat%26language%3Dvue)](https://codetime.dev)
+[![CodeTime Badge](https://img.shields.io/endpoint?style=flat&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D2%26minutes%3D525600%26color%3D222%26style%3Dflat%26language%3Dtypescript)](https://codetime.dev)
+[![CodeTime Badge](https://img.shields.io/endpoint?style=flat&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D2%26minutes%3D525600%26color%3D222%26style%3Dflat%26language%3Drust)](https://codetime.dev)
+[![CodeTime Badge](https://img.shields.io/endpoint?style=flat&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D2%26minutes%3D525600%26color%3D222%26style%3Dflat%26language%3Dgo)](https://codetime.dev)
+
+
+
 
 ---
 
