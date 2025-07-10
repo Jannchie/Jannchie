@@ -26,13 +26,12 @@ Homepage:
 My Works:
 - [cake47.art](http://cake47.art/): My wife's illustration portfolio.
 - [Chat UI](https://chat.jannchie.com): A pure front-end LLM client that supports all OpenAI compatible platforms.
-- [gitcm](https://github.com/Jannchie/gitcm): An opinionated git commits message helper.
 - [anichart.js](https://github.com/Jannchie/anichart.js): Data Visual Animation Library.
-- [AI CMD Runner](https://github.com/Jannchie/AI-cmd-runner): Execute console commands in natural language.
 - [Code Time](https://codetime.dev): Count and analyze programming time based on editor plug-in.
-- [Tr.GPT](https://trgpt.app): Translator GPT Application.
+- [Shield.rs](https://github.com/Jannchie/shields.rs): A high-performance badge rendering engine written in Rust.
+- [TGIT](https://github.com/Jannchie/tgit): Tool for managing git repositories.
 - [Roku UI Vue](https://roku-ui-vue.vercel.app): A Beautiful Vue UI Library.
-- [Gazer System](https://github.com/Jannchie/gazer-system): Universal crawler microservice, based on gRPC, Docker and Tor.
+- [Lite Agent](https://github.com/Jannchie/lite-agent): A simple LLM Agent system.
 - [BiliOB](https://www.biliob.com/): Bilibili data observe website (Maintenance stopped due to receipt of lawyer's letter).
 
 Support Me:
