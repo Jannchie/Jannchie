@@ -5,9 +5,9 @@
 ![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/8625892?style=social&logo=stackoverflow&link=https%3A%2F%2Fstackoverflow.com%2Fusers%2F8625892%2Fjannchie)
 ![Endpoint Badge](https://hits.jannchie.com/svg/jannchie.github?style=social)
 
-[![CodeTime badge](https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D2)](https://codetime.dev)
-[![CodeTime badge](https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D2%26minutes%3D10080)](https://codetime.dev)
-[![CodeTime badge](https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D2%26minutes%3D525600)](https://codetime.dev)
+[![CodeTime badge](https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D2&)](https://codetime.dev)
+[![CodeTime badge](https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D2%26minutes%3D525600&)](https://codetime.dev)
+[![CodeTime badge](https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D2%26minutes%3D10080&)](https://codetime.dev)
 
 [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=flat&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D2%26minutes%3D525600%26color%3D222%26style%3Dflat%26language%3Dpython)](https://codetime.dev)
 [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=flat&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D2%26minutes%3D525600%26color%3D222%26style%3Dflat%26language%3Drust)](https://codetime.dev)
