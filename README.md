@@ -24,7 +24,8 @@ Homepage:
 - [jannchie.com](https://jannchie.com/)
 
 My Works:
-- [cake47.art](http://cake47.art/): My wife's illustration portfolio.
+- [Liora](https://photos.jannchie.com): Self-host photo portfolio website.
+- [cake47.art](http://cake47.art): My wife's illustration portfolio.
 - [Chat UI](https://chat.jannchie.com): A pure front-end LLM client that supports all OpenAI compatible platforms.
 - [anichart.js](https://github.com/Jannchie/anichart.js): Data Visual Animation Library.
 - [Code Time](https://codetime.dev): Count and analyze programming time based on editor plug-in.
