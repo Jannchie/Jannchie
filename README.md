@@ -1,6 +1,6 @@
 ### Not All Who Wander Are Lost
 
-[![Bilibili](https://shields.jannchie.com/endpoint?logo=bilibili&style=social&url=https%3A%2F%2Fapi.zeroroku.com%2Fbilibili%2Fauthor%2Fshield%3Fmid%3D1850091)](https://space.bilibili.com/1850091)
+[![Bilibili](https://shields.jannchie.com/endpoint?logo=bilibili&style=social&url=https://zeroroku.com/api/bilibili/author/shield?mid=1850091)](https://space.bilibili.com/1850091)
 [![Github](https://img.shields.io/github/followers/jannchie?label=Follow&style=social)](https://github.com/jannchie)
 ![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/8625892?style=social&logo=stackoverflow&link=https%3A%2F%2Fstackoverflow.com%2Fusers%2F8625892%2Fjannchie)
 ![Endpoint Badge](https://hits.jannchie.com/svg/jannchie.github?style=social)
