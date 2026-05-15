@@ -20,6 +20,10 @@
 
 ---
 
+[![CodeTime Trend](https://codetime.dev/api/widgets/trend.svg?uid=2&days=90&theme=dark&)](https://codetime.dev)
+
+---
+
 Homepage:
 - [jannchie.com](https://jannchie.com/)
 
