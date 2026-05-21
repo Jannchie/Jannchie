@@ -20,6 +20,10 @@
 
 ---
 
+[![CodeTime Usage](https://codetime.dev/api/widgets/usage.svg?uid=2&theme=dark&style=detailed&range=today)](https://codetime.dev)
+
+---
+
 [![CodeTime Trend](https://codetime.dev/api/widgets/trend.svg?uid=2&days=90&theme=dark&)](https://codetime.dev)
 
 ---
